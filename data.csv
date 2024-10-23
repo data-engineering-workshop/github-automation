@@ -32,7 +32,7 @@ NSIDC_ECS,NSIDC-0727,5,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics f
 ASF,OPERA_L2_CSLC-S1-STATIC_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
 ASF,OPERA_L2_CSLC-S1_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-06-15T00:00:00.000Z,
 ASF,OPERA_L2_RTC-S1-STATIC_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
-ASF,OPERA_L2_RTC-S1_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2023-10-04T00:00:00.000Z,
+ASF,OPERA_L2_RTC-S1_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2021-01-01T00:00:00.000Z,
 ASF,RSAT-1_L0,1,RADARSAT-1_LEVEL0,0,RADARSAT-1,1996-02-01T03:18:56.000Z,2009-03-17T17:34:23.000Z
 ASF,RSAT-1_L1,1,RADARSAT-1_LEVEL1,1,RADARSAT-1,1996-02-01T03:18:56.000Z,2009-03-17T17:34:23.000Z
 ASF,SEASAT_SAR_L1_TIFF,1,SEASAT_SAR_LEVEL1_GEOTIFF,1,SEASAT 1,1978-07-04T12:05:47.000Z,1978-10-11T01:29:10.000Z
