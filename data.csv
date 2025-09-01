@@ -31,9 +31,9 @@ NSIDC_CPRD,NSIDC-0723,4,MEaSUREs Greenland Image Mosaics from Sentinel-1A and -1
 NSIDC_CPRD,NSIDC-0731,5,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics from SAR and Landsat V005,Level 3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2024-11-30T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0727,5,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V005,Level 3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2024-11-30T23:59:59.999Z
 ASF,OPERA_L2_CSLC-S1-STATIC_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
-ASF,OPERA_L2_CSLC-S1_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-06-15T00:00:00.000Z,
+ASF,OPERA_L2_CSLC-S1_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2014-06-15T00:00:00.000Z,
 ASF,OPERA_L2_RTC-S1-STATIC_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
-ASF,OPERA_L2_RTC-S1_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2020-12-31T23:59:00.000Z,
+ASF,OPERA_L2_RTC-S1_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2020-12-31T23:59:00.000Z,
 ASF,OPERA_L3_DISP-S1_V1,1,OPERA Surface Displacement from Sentinel-1 validated product (Version 1),3,"Sentinel-1A,Sentinel-1B",2016-07-01T00:00:00.000Z,
 ASF,RSAT-1_L0,1,RADARSAT-1 Level 0 Product,0,RADARSAT-1,1996-02-01T03:18:56.000Z,2009-03-17T17:34:23.000Z
 ASF,RSAT-1_L1,1,RADARSAT-1 Level 1 Product,1,RADARSAT-1,1996-02-01T03:18:56.000Z,2009-03-17T17:34:23.000Z
