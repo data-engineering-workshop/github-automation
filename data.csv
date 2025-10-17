@@ -73,20 +73,16 @@ ASF,SENTINEL-1B_SP_GRD_MEDIUM,1,SENTINEL-1B_SINGLE_POL_GRD_MEDIUM_RES,,Sentinel-
 ASF,SENTINEL-1B_SP_META_GRD_HIGH,1,SENTINEL-1B_SINGLE_POL_METADATA_GRD_HIGH_RES,,Sentinel-1B,2016-04-25T00:00:00.000Z,2021-12-24T00:00:00.000Z
 ASF,SENTINEL-1B_SP_META_GRD_MEDIUM,1,SENTINEL-1B_SINGLE_POL_METADATA_GRD_MEDIUM_RES,,Sentinel-1B,2016-04-25T00:00:00.000Z,2021-12-24T00:00:00.000Z
 ASF,SENTINEL-1B_SLC,1,SENTINEL-1B_SLC,,Sentinel-1B,2016-04-25T00:00:00.000Z,2021-12-24T00:00:00.000Z
-ASF,SENTINEL-1C_DP_GRD_FULL,1,Sentinel-1C Dual Polarization Full Resolution Ground Range Detected Product,1,Sentinel-1C,2025-01-01T00:00:00.000Z,
-ASF,SENTINEL-1C_DP_META_GRD_FULL,1,Sentinel-1C Dual Polarization Full Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-01-01T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_GRD_HIGH,1,Sentinel-1C Dual Polarization High Resolution Ground Range Detected Product,1,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_META_GRD_HIGH,1,Sentinel-1C Dual Polarization High Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_GRD_MEDIUM,1,Sentinel-1C Dual Polarization Medium Resolution Ground Range Detected Product,1,Sentinel-1C,2025-04-01T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_META_GRD_MEDIUM,1,Sentinel-1C Dual Polarization Medium Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-04-01T00:00:00.000Z,
-ASF,SENTINEL-1C_RAW,1,Sentinel-1C Level 0 Product,0,Sentinel-1C,2025-01-01T00:00:00.000Z,
+ASF,SENTINEL-1C_RAW,1,Sentinel-1C Level 0 Product,0,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_META_RAW,1,Sentinel-1C Level 0 Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_OCN,1,Sentinel-1C Ocean Product,2,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_META_OCN,1,Sentinel-1C Ocean Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_SLC,1,Sentinel-1C Single Look Complex Product,1,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_META_SLC,1,Sentinel-1C Single Look Complex Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
-ASF,SENTINEL-1C_SP_GRD_FULL,1,Sentinel-1C Single Polarization Full Resolution Ground Range Detected Product,1,Sentinel-1C,2025-01-01T00:00:00.000Z,
-ASF,SENTINEL-1C_SP_META_GRD_FULL,1,Sentinel-1C Single Polarization Full Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-01-01T00:00:00.000Z,
 ASF,SENTINEL-1C_SP_GRD_HIGH,1,Sentinel-1C Single Polarization High Resolution Ground Range Detected Product,1,Sentinel-1C,2025-04-09T00:00:00.000Z,
 ASF,SENTINEL-1C_SP_META_GRD_HIGH,1,Sentinel-1C Single Polarization High Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-04-09T00:00:00.000Z,
 ASF,SENTINEL-1C_SP_GRD_MEDIUM,1,Sentinel-1C Single Polarization Medium Resolution Ground Range Detected Product,1,Sentinel-1C,2025-04-19T00:00:00.000Z,
