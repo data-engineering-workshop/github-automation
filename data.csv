@@ -34,8 +34,12 @@ NSIDC_CPRD,NSIDC-0731,5,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics fr
 NSIDC_CPRD,NSIDC-0727,5,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V005,3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2024-11-30T23:59:59.999Z
 ASF,NISAR_ANC_AUX,1,NISAR Ancillary and Auxiliary Data,Not Provided,NISAR,2022-01-01T00:00:00.000Z,
 ASF,NISAR_COP,1,NISAR Coordinated Observation Plan,Not Provided,NISAR,2025-08-21T00:00:00.000Z,
+ASF,NISAR_LRCLK_UTC,1,NISAR L-SAR Radar Clock to UTC Conversion File,Not Provided,NISAR,2019-01-01T00:00:00.000Z,
+ASF,NISAR_OROST,1,NISAR Observation Radar Observation Sequence Table,Not Provided,NISAR,2025-08-21T00:00:00.000Z,
 ASF,NISAR_OE,1,NISAR Orbit Ephemeris,1A,NISAR,2025-07-30T00:00:00.000Z,
 ASF,NISAR_RP,1,NISAR Radar Pointing,1A,NISAR,2025-08-02T00:00:00.000Z,
+ASF,NISAR_STUF,1,NISAR Spacecraft Trajectory Utility File,Not Provided,NISAR,2025-07-30T00:00:00.000Z,
+ASF,NISAR_TEC,1,NISAR Total Electron Content,1A,NISAR,2025-08-26T00:00:00.000Z,
 ASF,OPERA_L2_CSLC-S1-STATIC_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
 ASF,OPERA_L2_CSLC-S1_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2014-06-15T00:00:00.000Z,
 ASF,OPERA_L2_RTC-S1-STATIC_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
