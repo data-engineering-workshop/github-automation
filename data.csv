@@ -37,7 +37,7 @@ NSIDC_CPRD,NSIDC-0725,4,MEaSUREs Greenland Annual Ice Sheet Velocity Mosaics fro
 NSIDC_CPRD,NSIDC-0725,5,MEaSUREs Greenland Annual Ice Sheet Velocity Mosaics from SAR and Landsat V005,3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2023-11-30T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0478,1,MEaSUREs Greenland Ice Sheet Velocity Map from InSAR Data V001,3,"ALOS,RADARSAT-1,TSX",2000-09-03T00:00:00.000Z,2009-02-28T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0723,3,MEaSUREs Greenland Image Mosaics from Sentinel-1A and -1B V003,,"Sentinel-1A,Sentinel-1B",2015-01-01T00:00:00.000Z,2020-12-11T23:59:59.999Z
-NSIDC_CPRD,NSIDC-0723,4,MEaSUREs Greenland Image Mosaics from Sentinel-1A and -1B V004,3,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2015-01-01T00:00:00.000Z,2025-04-25T23:59:59.999Z
+NSIDC_CPRD,NSIDC-0723,4,MEaSUREs Greenland Image Mosaics from Sentinel-1A and -1B V004,3,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2015-01-01T00:00:00.000Z,2025-12-27T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0731,2,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics from SAR and Landsat V002,3,"LANDSAT-8,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2019-11-30T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0731,4,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics from SAR and Landsat V004,3,"LANDSAT-8,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2022-02-28T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0731,5,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics from SAR and Landsat V005,3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2024-11-30T23:59:59.999Z
