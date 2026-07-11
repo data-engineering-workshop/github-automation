@@ -1,5 +1,4 @@
 Data Provider,Short Name,Version,Entry Title,Processing Level,Platforms,Start Time,End Time
-ASF,AIRSAR_INT,1,AIRSAR_ALONGTRACK_INTERFEROMETRY,1,DC-8,1998-10-25T00:00:00.000Z,2004-03-05T23:59:59.000Z
 ASF,AIRSAR_INT_JPG,1,AIRSAR_ALONGTRACK_INTERFEROMETRY_JPG,1,DC-8,1998-10-25T00:00:00.000Z,2004-03-05T23:59:59.000Z
 ASF,AIRSAR_POL_3FP,1,AIRSAR_POLSAR_3_FREQ_POLARIMETRY,1,DC-8,1990-03-02T00:00:00.000Z,2004-03-21T23:59:59.000Z
 ASF,AIRSAR_POL_SYN_3FP,1,AIRSAR_POLSAR_SYNOPTIC_3_FREQ_POLARIMETRY,1,DC-8,1990-03-29T00:00:00.000Z,1991-07-16T23:59:59.000Z
@@ -44,87 +43,32 @@ NSIDC_CPRD,NSIDC-0731,5,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics fr
 NSIDC_CPRD,NSIDC-0727,2,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V002,3,"LANDSAT-8,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2019-11-30T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0727,4,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V004,3,"LANDSAT-8,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2022-02-28T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0727,5,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V005,3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2024-11-30T23:59:59.999Z
-ASF,WETLANDS_INUNDATION,1,MEaSURES_GLOBAL_WETLANDS_INUNDATION,2,Aqua,2002-01-01T00:00:00.000Z,2009-12-31T23:59:00.000Z
 ASF,NISAR_DEM,1,Modified Copernicus Digital Elevation Models used by the NASA-ISRO Synthetic Aperture Radar (NISAR) Mission,3,DEM,2024-10-30T00:00:00.000Z,
 ASF,NISAR_ANC_AUX,1,NISAR Ancillary and Auxiliary Data,Not Provided,NISAR,2022-01-01T00:00:00.000Z,
 ASF,NISAR_L2_GOFF_BETA_V1,1,NISAR Beta Geocoded Pixel Offsets (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L2_GCOV_BETA_V1,1,NISAR Beta Geocoded Polarimetric Covariance Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L2_GSLC_BETA_V1,1,NISAR Beta Geocoded Single Look Complex Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L2_GUNW_BETA_V1,1,NISAR Beta Geocoded Unwrapped Interferogram Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L0A_RRST_BETA_V1,1,NISAR Beta Level 0A Science Telemetry Data (Version 1),0,NISAR,2008-01-01T00:00:00.000Z,
-ASF,NISAR_L0B_CRSD_BETA_V1,1,NISAR Beta Radar Raw Signal Calibration Data (Version 1),0,NISAR,2021-01-01T00:00:00.000Z,
-ASF,NISAR_L0B_RRSD_BETA_V1,1,NISAR Beta Radar Raw Signal Science Data (Version 1),0,NISAR,2021-01-01T00:00:00.000Z,
 ASF,NISAR_L1_ROFF_BETA_V1,1,NISAR Beta Range Doppler Pixel Offsets (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L1_RSLC_BETA_V1,1,NISAR Beta Range Doppler Single Look Complex Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L1_RUNW_BETA_V1,1,NISAR Beta Range Doppler Unwrapped Interferogram Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L1_RIFG_BETA_V1,1,NISAR Beta Range Doppler Wrapped Interferogram Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L3_SME2_BETA_V1,1,NISAR Beta Soil Moisture (Version 1),3,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_COP,1,NISAR Coordinated Observation Plan,Not Provided,NISAR,2025-08-21T00:00:00.000Z,
-ASF,NISAR_DC_RADAR,1,NISAR Dynamics and Control Radar,Not Provided,NISAR,2025-12-24T00:00:00.000Z,
-ASF,NISAR_L0B_CRSD_ENG,1,NISAR Engineering Radar Raw Signal Calibration Data,0,NISAR,2021-01-01T00:00:00.000Z,
-ASF,NISAR_L0B_RRSD_ENG,1,NISAR Engineering Radar Raw Signal Science Data,0,NISAR,2021-01-01T00:00:00.000Z,
-ASF,NISAR_EA_L0B_CRSD,1,NISAR Ephemeral Archive Radar Raw Signal Calibration Data,0,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_EA_L0B_RRSD,1,NISAR Ephemeral Archive Radar Raw Signal Science Data,0,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_LRCLK,1,NISAR L-SAR Radar Clock to UTC Conversion,Not Provided,NISAR,2008-01-01T00:00:00.000Z,
 ASF,NISAR_LRCLK_UTC,1,NISAR L-SAR Radar Clock to UTC Conversion File,Not Provided,NISAR,2019-01-01T00:00:00.000Z,
-ASF,NISAR_EA_L1,1,NISAR Level 1 Private Ephemeral Archive Data,1,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_PA_L1,1,NISAR Level 1 Private Permanent Archive Data,1,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_EA_L2,1,NISAR Level 2 Private Ephemeral Archive Data,2,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_PA_L2,1,NISAR Level 2 Private Permanent Archive Data,2,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_EA_L3,1,NISAR Level 3 Private Ephemeral Archive Data,3,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_PA_L3,1,NISAR Level 3 Private Permanent Archive Data,3,NISAR,2025-08-01T00:00:00.000Z,
 ASF,NISAR_OROST,1,NISAR Observation Radar Observation Sequence Table,Not Provided,NISAR,2025-08-21T00:00:00.000Z,
 ASF,NISAR_OE,1,NISAR Orbit Ephemeris,1A,NISAR,2025-07-30T00:00:00.000Z,
-ASF,NISAR_PA_L0B_RRSD,1,NISAR Permanent Archive Radar Raw Signal Science Data,0,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_PA_L0B_CRSD,1,NISAR Permanent Private Archive Radar Raw Signal Calibration Data,0,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_CUSTOM_PROVISIONAL_V1,1,NISAR Provisional Custom Products,NA,NISAR,2008-01-01T00:00:00.000Z,
-ASF,NISAR_L2_GOFF_PROVISIONAL_V1,1,NISAR Provisional Geocoded Pixel Offsets (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L2_GCOV_PROVISIONAL_V1,1,NISAR Provisional Geocoded Polarimetric Covariance Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L2_GSLC_PROVISIONAL_V1,1,NISAR Provisional Geocoded Single Look Complex Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L2_GUNW_PROVISIONAL_V1,1,NISAR Provisional Geocoded Unwrapped Interferogram Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L0A_RRST_PROVISIONAL_V1,1,NISAR Provisional Level 0A Science Telemetry Data (Version 1),0,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L0B_CRSD_PROVISIONAL_V1,1,NISAR Provisional Radar Raw Signal Calibration Data (Version 1),0,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_L0B_RRSD_PROVISIONAL_V1,1,NISAR Provisional Radar Raw Signal Science Data (Version 1),0,NISAR,2025-08-01T00:00:00.000Z,
-ASF,NISAR_L1_ROFF_PROVISIONAL_V1,1,NISAR Provisional Range Doppler Pixel Offsets (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_RSLC_PROVISIONAL_V1,1,NISAR Provisional Range Doppler Single Look Complex Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_RUNW_PROVISIONAL_V1,1,NISAR Provisional Range Doppler Unwrapped Interferogram Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_RIFG_PROVISIONAL_V1,1,NISAR Provisional Range Doppler Wrapped Interferogram Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L3_SME2_PROVISIONAL_V1,1,NISAR Provisional Soil Moisture (Version 1),3,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_RP,1,NISAR Radar Pointing,1A,NISAR,2025-08-02T00:00:00.000Z,
 ASF,NISAR_STUF,1,NISAR Spacecraft Trajectory Utility File,Not Provided,NISAR,2025-07-30T00:00:00.000Z,
 ASF,NISAR_TEC,1,NISAR Total Electron Content,1A,NISAR,2025-08-26T00:00:00.000Z,
-ASF,NISAR_UR_L1,1,NISAR Urgent Response Level 1 Product,1,NISAR,2026-06-01T00:00:00.000Z,
-ASF,NISAR_UR_L2,1,NISAR Urgent Response Level 2 Product,2,NISAR,2026-06-01T00:00:00.000Z,
-ASF,NISAR_UR_L0B_RRSD,1,NISAR Urgent Response Radar Raw Signal Science Data,0,NISAR,2026-06-01T00:00:00.000Z,
-ASF,NISAR_L2_GOFF_V1,1,NISAR Validated Geocoded Pixel Offsets (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L2_GCOV_V1,1,NISAR Validated Geocoded Polarimetric Covariance Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L2_GSLC_V1,1,NISAR Validated Geocoded Single Look Complex Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L2_GUNW_V1,1,NISAR Validated Geocoded Unwrapped Interferogram Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L0A_RRST_V1,1,NISAR Validated Level 0A Science Telemetry Data (Version 1),0,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L0B_CRSD_V1,1,NISAR Validated Radar Raw Signal Calibration Data (Version 1),0,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L0B_RRSD_V1,1,NISAR Validated Radar Raw Signal Science Data (Version 1),0,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_ROFF_V1,1,NISAR Validated Range Doppler Pixel Offsets (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_RSLC_V1,1,NISAR Validated Range Doppler Single Look Complex Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_RUNW_V1,1,NISAR Validated Range Doppler Unwrapped Interferogram Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L1_RIFG_V1,1,NISAR Validated Range Doppler Wrapped Interferogram Product (Version 1),1,NISAR,2025-10-01T00:00:00.000Z,
-ASF,NISAR_L3_SME2_V1,1,NISAR Validated Soil Moisture (Version 1),3,NISAR,2025-10-01T00:00:00.000Z,
-ASF,OPERA_L2_CSLC-S1_CALVAL_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 product for Calibration & Validation (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-10-14T00:00:00.000Z,2023-07-29T23:59:59.000Z
-ASF,OPERA_L2_CSLC-S1-STATIC_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
+ASF,OPERA_L2_CSLC-S1-STATIC_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2014-04-03T00:00:00.000Z,
 ASF,OPERA_L2_CSLC-S1_V1,1,OPERA Coregistered Single-Look Complex from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2016-07-01T00:00:00.000Z,
-ASF,OPERA_L3_DIST-ALERT-S1_V1,1,OPERA Land Surface Disturbance Alert from Sentinel-1 validated product (Version 1),3,"Sentinel-1A,Sentinel-1C",2026-01-01T00:00:00.000Z,
-ASF,OPERA_L2_RTC-S1_CALVAL_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 product for Calibration & Validation (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-10-28T00:00:00.000Z,2023-07-13T23:59:59.000Z
-ASF,OPERA_L2_RTC-S1-STATIC_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B",2014-04-03T00:00:00.000Z,
+ASF,OPERA_L2_RTC-S1-STATIC_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 Static Layers validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2014-04-03T00:00:00.000Z,
 ASF,OPERA_L2_RTC-S1_V1,1,OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1),2,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2016-04-14T00:00:00.000Z,
-ASF,OPERA_L3_DISP-S1-STATIC_V1,1,OPERA Surface Displacement from Sentinel-1 Static Layers validated product (Version 1),3,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2014-04-03T00:00:00.000Z,
 ASF,OPERA_L3_DISP-S1_V1,1,OPERA Surface Displacement from Sentinel-1 validated product (Version 1),3,"Sentinel-1A,Sentinel-1B,Sentinel-1C",2016-07-01T00:00:00.000Z,
 ASF,OPERA_L4_TROPO-ZENITH_V1,1,OPERA Tropospheric Correction at Zenith validated product (Version 1),4,ECMWF,2016-01-01T00:00:00.000Z,
 ASF,RSAT-1_L0,1,RADARSAT-1 Level 0 Product,0,RADARSAT-1,1996-02-01T03:18:56.000Z,2009-03-17T17:34:23.000Z
 ASF,RSAT-1_L1,1,RADARSAT-1 Level 1 Product,1,RADARSAT-1,1996-02-01T03:18:56.000Z,2009-03-17T17:34:23.000Z
-ASF,SI_M12_CSV,1,SEA_ICE_MEaSURES_Kinematics_M12_CSV,2,ENVISAT,2007-04-02T00:00:00.000Z,2012-04-09T00:00:00.000Z
-ASF,SI_M12_HDF4,1,SEA_ICE_MEaSURES_Kinematics_M12_HDF4,2,ENVISAT,2007-04-02T00:00:00.000Z,2012-04-09T00:00:00.000Z
-ASF,SI_M12_HDF5,1,SEA_ICE_MEaSURES_Kinematics_M12_HDF5,2,ENVISAT,2007-04-02T00:00:00.000Z,2012-04-09T00:00:00.000Z
-ASF,SI_M12_SHP,1,SEA_ICE_MEaSURES_Kinematics_M12_SHP,2,ENVISAT,2007-04-02T00:00:00.000Z,2012-04-09T00:00:00.000Z
-ASF,SI_M12_XML,1,SEA_ICE_MEaSURES_Kinematics_M12_XML,2,ENVISAT,2007-04-02T00:00:00.000Z,2012-04-09T00:00:00.000Z
 ASF,SEASAT_L1_SAR,1,Seasat Level 1 Synthetic Aperture Radar Products,1,SEASAT 1,1978-07-04T00:00:00.000Z,1978-10-12T00:00:00.000Z
 ASF,SENTINEL-1_INTERFEROGRAMS,1,Sentinel-1 Interferograms,2,"Sentinel-1A,Sentinel-1B",2014-10-15T07:08:46.000Z,2023-05-28T23:28:15.000Z
 ASF,SENTINEL-1_BURSTS,1,Sentinel-1 Single Look Complex (SLC) Bursts,1,"Sentinel-1A,Sentinel-1B,Sentinel-1C,Sentinel-1D",2014-06-15T00:00:00.000Z,
@@ -158,8 +102,6 @@ ASF,SENTINEL-1B_SP_GRD_HIGH,1,Sentinel-1B Single Polarization High Resolution Gr
 ASF,SENTINEL-1B_SP_META_GRD_HIGH,1,Sentinel-1B Single Polarization High Resolution Ground Range Detected Product Metadata,,Sentinel-1B,2016-04-25T00:00:00.000Z,2021-12-24T00:00:00.000Z
 ASF,SENTINEL-1B_SP_GRD_MEDIUM,1,Sentinel-1B Single Polarization Medium Resolution Ground Range Detected Product,1,Sentinel-1B,2016-04-25T00:00:00.000Z,2021-12-24T00:00:00.000Z
 ASF,SENTINEL-1B_SP_META_GRD_MEDIUM,1,Sentinel-1B Single Polarization Medium Resolution Ground Range Detected Product Metadata,,Sentinel-1B,2016-04-25T00:00:00.000Z,2021-12-24T00:00:00.000Z
-ASF,SENTINEL-1C_DP_GRD_FULL,1,Sentinel-1C Dual Polarization Full Resolution Ground Range Detected Product,1,Sentinel-1C,2025-01-01T00:00:00.000Z,
-ASF,SENTINEL-1C_DP_META_GRD_FULL,1,Sentinel-1C Dual Polarization Full Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-01-01T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_GRD_HIGH,1,Sentinel-1C Dual Polarization High Resolution Ground Range Detected Product,1,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_META_GRD_HIGH,1,Sentinel-1C Dual Polarization High Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_DP_GRD_MEDIUM,1,Sentinel-1C Dual Polarization Medium Resolution Ground Range Detected Product,1,Sentinel-1C,2025-04-01T00:00:00.000Z,
@@ -170,8 +112,6 @@ ASF,SENTINEL-1C_OCN,1,Sentinel-1C Ocean Product,2,Sentinel-1C,2025-03-28T00:00:0
 ASF,SENTINEL-1C_META_OCN,1,Sentinel-1C Ocean Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_SLC,1,Sentinel-1C Single Look Complex Product,1,Sentinel-1C,2025-03-28T00:00:00.000Z,
 ASF,SENTINEL-1C_META_SLC,1,Sentinel-1C Single Look Complex Product Metadata,Not Provided,Sentinel-1C,2025-03-28T00:00:00.000Z,
-ASF,SENTINEL-1C_SP_GRD_FULL,1,Sentinel-1C Single Polarization Full Resolution Ground Range Detected Product,1,Sentinel-1C,2025-01-01T00:00:00.000Z,
-ASF,SENTINEL-1C_SP_META_GRD_FULL,1,Sentinel-1C Single Polarization Full Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-01-01T00:00:00.000Z,
 ASF,SENTINEL-1C_SP_GRD_HIGH,1,Sentinel-1C Single Polarization High Resolution Ground Range Detected Product,1,Sentinel-1C,2025-04-09T00:00:00.000Z,
 ASF,SENTINEL-1C_SP_META_GRD_HIGH,1,Sentinel-1C Single Polarization High Resolution Ground Range Detected Product Metadata,Not Provided,Sentinel-1C,2025-04-09T00:00:00.000Z,
 ASF,SENTINEL-1C_SP_GRD_MEDIUM,1,Sentinel-1C Single Polarization Medium Resolution Ground Range Detected Product,1,Sentinel-1C,2025-04-19T00:00:00.000Z,
@@ -223,7 +163,6 @@ ASF,SPL1C_S0_HiRes_METADATA_003,3,SMAP_L1C_SIGMA_NAUGHT_HIGH_RES_METADATA_V003,1
 ASF,SPL1C_S0_HiRes_QA_001,1,SMAP_L1C_SIGMA_NAUGHT_HIGH_RES_QA_V001,1,SMAP,2015-02-12T16:02:58.000Z,2015-07-07T22:00:00.000Z
 ASF,SPL1C_S0_HiRes_QA_002,2,SMAP_L1C_SIGMA_NAUGHT_HIGH_RES_QA_V002,1,SMAP,2015-02-12T16:02:58.000Z,2015-07-07T22:00:00.000Z
 ASF,SPL1C_S0_HiRes_QA_003,3,SMAP_L1C_SIGMA_NAUGHT_HIGH_RES_QA_V003,1,SMAP,2015-02-12T16:02:58.000Z,2015-07-08T01:00:00.000Z
-ASF,NISAR_L2_STATIC_LAYERS,1,Static Layers for the NASA-ISRO Synthetic Aperture Radar (NISAR) Mission,2,NISAR,2015-01-01T00:00:00.000Z,2015-01-01T00:00:00.000Z
 ASF,STS-59_GRD,1,STS-59_GRD,,STS-59,1994-04-09T00:00:00.000Z,1994-04-22T00:00:00.000Z
 ASF,STS-59_META_GRD,1,STS-59_METADATA_GRD,,STS-59,1994-04-09T00:00:00.000Z,1994-04-22T00:00:00.000Z
 ASF,STS-59_META_SLC,1,STS-59_METADATA_SLC,,STS-59,1994-04-09T00:00:00.000Z,1994-04-22T00:00:00.000Z
