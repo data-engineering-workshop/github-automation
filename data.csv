@@ -43,7 +43,7 @@ NSIDC_CPRD,NSIDC-0731,5,MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics fr
 NSIDC_CPRD,NSIDC-0727,2,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V002,3,"LANDSAT-8,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2019-11-30T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0727,4,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V004,3,"LANDSAT-8,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2022-02-28T23:59:59.999Z
 NSIDC_CPRD,NSIDC-0727,5,MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V005,3,"LANDSAT-8,LANDSAT-9,Sentinel-1A,Sentinel-1B,TDX,TSX",2014-12-01T00:00:00.000Z,2024-11-30T23:59:59.999Z
-ASF,NISAR_DEM,1,Modified Copernicus Digital Elevation Models used by the NASA-ISRO Synthetic Aperture Radar (NISAR) Mission,3,DEM,2024-10-30T00:00:00.000Z,
+ASF,NISAR_DEM,1,Modified Copernicus Digital Elevation Models used by the NASA-ISRO Synthetic Aperture Radar (NISAR) Mission,3,DEM,2024-10-30T00:00:00.000Z,2024-11-04T10:00:00.000Z
 ASF,NISAR_ANC_AUX,1,NISAR Ancillary and Auxiliary Data,Not Provided,NISAR,2022-01-01T00:00:00.000Z,
 ASF,NISAR_L2_GOFF_BETA_V1,1,NISAR Beta Geocoded Pixel Offsets (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
 ASF,NISAR_L2_GCOV_BETA_V1,1,NISAR Beta Geocoded Polarimetric Covariance Product (Version 1),2,NISAR,2025-10-01T00:00:00.000Z,
